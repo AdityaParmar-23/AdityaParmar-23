@@ -17,3 +17,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adityaparmar-23&show_icons=true&locale=en" alt="adityaparmar-23" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adityaparmar-23&" alt="adityaparmar-23" /></p>
+
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhishek-kumar-21" alt="AdityaParmar-23" /></a> </p>
