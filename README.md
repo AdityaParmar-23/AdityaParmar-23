@@ -2,8 +2,8 @@
 
 
 <h1 align="center">Hi 👋, I'm Aditya Parmar</h1>
-<h3 align="center">Computer Science Undergraduate at RKGIT Ghaziabad</h3>
-
+<h3 align="center">Computer Science Undergraduate at RKGIT Ghaziabad AKTU</h3>
+<h1> JAI HIND DOST</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityaparmar-23&label=Profile%20views&color=0e75b6&style=flat" alt="adityaparmar-23" /> </p>
 
 <p align="left">
