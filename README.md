@@ -1,26 +1,10 @@
-<!DOCTYPE html>
-<html>
-<head>
-<title>Move Text</title>
-<style>
-body {
-background-color: green;
-text-align: center;
-color: white;
-font-family: Arial;
-}
-</style>
-</head>
-<body>
-<h1>Hello</h1>
-<marquee>
-Hello champs how are you 
-</marquee>
-</body>
-</html>
+
 
 
 <h1 align="center">Hi 👋, I'm Aditya Parmar</h1>
+<marquee>
+Hello champs how are you 
+</marquee>
 <h3 align="center">Computer Science Undergraduate at RKGIT Ghaziabad AKTU</h3>
 <h1> JAI HIND DOST</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityaparmar-23&label=Profile%20views&color=0e75b6&style=flat" alt="adityaparmar-23" /> </p>
