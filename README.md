@@ -1,4 +1,23 @@
-<!-- contributed by @abhishek-kumar-21 -->
+<!DOCTYPE html>
+<html>
+<head>
+<title>Move Text</title>
+<style>
+body {
+background-color: green;
+text-align: center;
+color: white;
+font-family: Arial;
+}
+</style>
+</head>
+<body>
+<h1>Hello</h1>
+<marquee>
+Hello champs how are you 
+</marquee>
+</body>
+</html>
 
 
 <h1 align="center">Hi 👋, I'm Aditya Parmar</h1>
