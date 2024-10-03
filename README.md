@@ -1,33 +1,33 @@
 
 
-<!-- ###### HEAD ##### -->
 
+<h1 align="center">Hi 👋, I'm Aditya Parmar</h1>
+<marquee>
+Hello champs how are you 
+</marquee>
+<h3 align="center">Computer Science Undergraduate at RKGIT Ghaziabad AKTU</h3>
+<h1> JAI HIND DOSTO</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=adityaparmar-23&label=Profile%20views&color=0e75b6&style=flat" alt="adityaparmar-23" /> </p>
 
-<img width=100% title="PARMAR-GROUP" alt="PARMAR-GROUP" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Nemonet-🔰-TYP&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
-
-
-<p align="center">
-<a href="https://nemonet-profile.netlify.app"/><img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white"/></a>
-</p>
- <p align="center">
-  <a href="https://the-young-programmer.github.io/The-Young-Programmer/"/> <img src="https://img.shields.io/badge/Google_chrome-4285F4?style=flat&logo=Google-chrome&logoColor=white"/></a>
-  <a href="https://the-young-programmer.github.io/The-Young-Programmer/"/><img src="https://img.shields.io/badge/Firefox_Browser-FF7139?style=flat&logo=Firefox-Browser&logoColor=white"/></a>
-  <a href="https://the-young-programmer.github.io/The-Young-Programmer/"/><img src="https://img.shields.io/badge/Tor_Browser-7D4698?style=flat&logo=Tor-Browser&logoColor=white"/></a>
-  </p>
-
-  
-  <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=The-Young-Programmer&label=Visitors&color=0e75b6&style=flat" alt="The-Young-Programmer" /> <img src="https://img.shields.io/github/followers/The-Young-Programmer?label=Followers&style=flat&color=0e75b6" alt="The Young Programmer"/>
- <a href="https://github.com/The-Young-Programmer?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=0e75b6&label=Stars&style=flat&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/The-Young-Programmer"/></a>
- <a href="mailto:the.young.programmer.team@gmail.com">
-    <img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=ff69b4"/> 
-  </a>
-  </p>
-
-  <p align="center">
-  <a href="https://github.com/The-Young-Programmer"><img src="https://readme-typing-svg.herokuapp.com/?lines=🔗%20Software%20Engineer;🌐%20Dynamic%20Web%20Designer;👨‍💻%20Fullstack%20Web%20Developer;📲%20Android%20App%20Developer;🎨%20UI/UX%20%20Design;🤝%203%2B%20years%20of%20coding%20experience;🔰%20Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
+<p align="left">
 </p>
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="380px" max-width="400px" width="350px" align="right"> <br>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adityaparmar-23&show_icons=true&locale=en&layout=compact" alt="adityaparmar-23" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adityaparmar-23&show_icons=true&locale=en" alt="adityaparmar-23" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adityaparmar-23&" alt="adityaparmar-23" /></p>
+
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhishek-kumar-21" alt="AdityaParmar-23" /></a> </p>
+
+
+ 
+
+
+
+
 
