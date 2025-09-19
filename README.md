@@ -4,7 +4,7 @@
 
 <h3 align="center">Computer Science Undergraduate at RKGIT Ghaziabad AKTU</h3>
 
-<h1>🇮🇳 HELLO CODERS 🇮🇳</h1>
+<center> <h1>HELLO CODERS</h1> </center>
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=adityaparmar-23&label=Profile%20views&color=0e75b6&style=flat" alt="adityaparmar-23" /> 
